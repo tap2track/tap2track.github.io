@@ -2,7 +2,9 @@
 
 Support page and privacy policy for App Store Connect.
 
+- Published from https://github.com/tap2track/tap2track.github.io
+  → https://tap2track.github.io/ (support) and https://tap2track.github.io/privacy.html
 - `privacy.md` must stay identical to `tap2track/Legal/PrivacyPolicy.md`
   (the copy shown in the app). A unit test checks it.
-- Publish: push this folder's content to a public GitHub repository and enable
-  Settings → Pages → "Deploy from a branch" (main, / root).
+- To update the site: copy this folder's files into the
+  `tap2track.github.io` repository and push to `main`.
