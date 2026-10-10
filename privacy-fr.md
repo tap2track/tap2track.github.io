@@ -9,7 +9,7 @@ T2T Hockey (« l'app ») aide les parents et les entraîneurs à compiler les st
 L'app enregistre les éléments suivants uniquement sur votre iPhone ou iPad :
 
 - Les clubs et équipes que vous créez : noms, abréviations, catégories, divisions, couleurs, étiquettes et logos.
-- Les matchs que vous suivez : événements (lancers, buts, mises au jeu, dégagements refusés, hors-jeu, revirements, mises en échec), dates, lieux et étiquettes.
+- Les matchs que vous suivez : événements (tirs, buts, mises au jeu, dégagements refusés, hors-jeu, revirements, mises en échec), dates, lieux et étiquettes.
 - Vos réglages et préférences.
 
 Ces données ne sont envoyées ni à nous ni à aucun serveur. Elles font partie des sauvegardes de votre appareil (iCloud ou ordinateur) selon vos propres réglages.
