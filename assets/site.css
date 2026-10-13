@@ -112,3 +112,11 @@ footer a:hover { color: var(--text); }
   .lead { font-size: 18px; }
   .plans, .support { grid-template-columns: 1fr; }
 }
+
+/* Legal pages (Markdown rendered with _layouts/default.html) */
+.prose { max-width: 760px; padding: 24px 0 56px; color: var(--text-2); }
+.prose h1 { font-size: clamp(30px, 5vw, 44px); color: var(--text); }
+.prose h2 { font-size: 24px; color: var(--text); margin-top: 36px; }
+.prose strong { color: var(--text); }
+.prose a { color: var(--accent); }
+.prose li { margin: 6px 0; }

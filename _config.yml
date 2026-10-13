@@ -1,3 +1,17 @@
 title: T2T Hockey
 description: Track hockey stats in real time, one gesture per event.
-theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: "privacy.md"
+    values:
+      layout: default
+      lang: en
+      title: "T2T Hockey · Privacy Policy"
+  - scope:
+      path: "privacy-fr.md"
+    values:
+      layout: default
+      lang: fr
+      title: "T2T Hockey · Politique de confidentialité"
+exclude:
+  - README.md

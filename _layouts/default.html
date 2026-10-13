@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="icon" type="image/png" href="{{ '/favicon.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      {% if page.lang == 'fr' %}
+      <a class="brand" href="{{ '/fr/' | relative_url }}"><span class="brand-mark">T2T</span> T2T HOCKEY</a>
+      <a class="lang" href="{{ '/privacy.html' | relative_url }}" hreflang="en" lang="en">English</a>
+      {% else %}
+      <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark">T2T</span> T2T HOCKEY</a>
+      <a class="lang" href="{{ '/privacy-fr.html' | relative_url }}" hreflang="fr" lang="fr">Français</a>
+      {% endif %}
+    </header>
+    <main class="prose">
+      {{ content }}
+    </main>
+    <footer>
+      {% if page.lang == 'fr' %}
+      <nav><a href="{{ '/fr/' | relative_url }}">← Retour à l'accueil</a><a href="mailto:tap2track@gmail.com">Contact</a></nav>
+      {% else %}
+      <nav><a href="{{ '/' | relative_url }}">← Back to home</a><a href="mailto:tap2track@gmail.com">Contact</a></nav>
+      {% endif %}
+      © 2026 T2T Hockey
+    </footer>
+  </div>
+</body>
+</html>

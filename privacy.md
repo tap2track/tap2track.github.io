@@ -1,15 +1,15 @@
 # T2T Hockey Privacy Policy
 
-Effective date: October 7, 2026
+Effective date: October 12, 2026
 
 T2T Hockey ("the app") helps parents and coaches track hockey game statistics. This policy explains what happens to your information when you use the app. The short version: **the app does not collect, transmit or sell any personal data.** Everything you enter stays on your device.
 
 ## What the app stores on your device
 
-The app saves the following on your iPhone or iPad only:
+The app saves the following on your iPhone only:
 
 - Clubs and teams you create: names, abbreviations, categories, divisions, colors, tags and logos.
-- Matches you track: events (shots, goals, faceoffs, icings, offsides, turnovers, hits), dates, venues and tags.
+- Matches you track: events (shots, missed and blocked shots, goals, faceoffs, icings, offsides, turnovers, hits), dates, venues and tags.
 - Your settings and preferences.
 
 This data is not sent to us or to any server. It is included in your device backups (iCloud or computer) according to your own device settings.
@@ -34,6 +34,8 @@ Weekly reminders are optional. They are scheduled on your device by iOS; no noti
 
 When you share a match (image, PDF report or game file), it goes only where you choose to send it, using the iOS share sheet. When you import a game file, it is read and saved on your device only.
 
+You can export all your data (clubs, teams, matches and settings) to a backup file and restore it later. The file goes only where you choose to save or send it.
+
 ## Purchases
 
 Premium subscriptions are processed entirely by Apple through the App Store. We never receive your payment information. The app only checks with Apple, on your device, whether a subscription is active. Apple's handling of your purchase is covered by Apple's privacy policy.
@@ -44,7 +46,7 @@ The app is intended for parents, coaches and team staff. It does not collect per
 
 ## Deleting your data
 
-You can delete matches, teams and clubs at any time in the app. Deleting the app removes all of its data from your device.
+You can delete matches, teams and clubs at any time in the app. Deleting the app removes all of its data from your device. Backup files or matches you exported remain wherever you saved them.
 
 ## Changes to this policy
 
