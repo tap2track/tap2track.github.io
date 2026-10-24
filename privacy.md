@@ -1,8 +1,8 @@
 # T2T Hockey Privacy Policy
 
-Effective date: October 12, 2026
+Effective date: October 24, 2026
 
-T2T Hockey ("the app") helps parents and coaches track hockey game statistics. This policy explains what happens to your information when you use the app. The short version: **the app does not collect, transmit or sell any personal data.** Everything you enter stays on your device.
+T2T Hockey ("the app") helps parents and coaches track hockey game statistics. This policy explains what happens to your information when you use the app. The short version: **we do not collect, receive or sell any personal data.** Everything you enter stays on your device, unless you choose to sync or share a team with iCloud: it then goes through your own Apple Account, and we never have access to it.
 
 ## What the app stores on your device
 
@@ -12,14 +12,24 @@ The app saves the following on your iPhone only:
 - Matches you track: events (shots, missed and blocked shots, goals, faceoffs, icings, offsides, turnovers, hits), dates, venues and tags.
 - Your settings and preferences.
 
-This data is not sent to us or to any server. It is included in your device backups (iCloud or computer) according to your own device settings.
+This data is never sent to us; we have no servers. It is included in your device backups (iCloud or computer) according to your own device settings. If you turn on iCloud sync for a team, that team's data is also stored in your iCloud account (see below).
 
 ## What the app does not do
 
-- No account or sign-in.
+- No T2T Hockey account or sign-in. The optional iCloud features use the Apple Account already on your device.
 - No analytics, advertising or tracking of any kind.
 - No location, contacts, camera or microphone access.
 - No data is shared with or sold to third parties.
+
+## iCloud sync and team sharing (optional)
+
+These features are off until you turn them on for a team.
+
+- **Sync with iCloud:** the team, its games, the opponents met (names, colors, logos), its leagues and tournaments are stored in your private iCloud database through Apple's CloudKit, under your Apple Account, so they appear on your other devices. Game and team content is end-to-end encrypted. Logos are stored as iCloud files, protected like your other iCloud data. This data counts against your iCloud storage.
+- **Sharing a team:** when you invite people with the iOS sharing screen, only they get access, as scorers (they can add and edit games) or viewers (they can only see them). Apple shows the people sharing a team each other's names and the contact used for the invitation. You can change a person's access, remove them or stop sharing at any time.
+- **Live games and goal alerts:** while a shared team's game is recorded, its updates go through iCloud to the people it is shared with. If they turn on goal alerts, iCloud wakes the app through Apple's push notification service and the app shows the alert on their device. No server of ours is involved.
+
+We, the developer, cannot see, read or receive any of this data. It is handled by Apple under Apple's privacy policy.
 
 ## Photos
 
@@ -28,7 +38,7 @@ This data is not sent to us or to any server. It is included in your device back
 
 ## Notifications
 
-Weekly reminders are optional. They are scheduled on your device by iOS; no notification server is involved. You can turn them off in the app's Settings or in iOS Settings.
+Weekly reminders are optional. They are scheduled on your device by iOS; no notification server is involved. Goal alerts for shared teams are also optional (see above). You can turn notifications off in the app's Settings or in iOS Settings.
 
 ## Sharing and importing
 
@@ -47,6 +57,8 @@ The app is intended for parents, coaches and team staff. It does not collect per
 ## Deleting your data
 
 You can delete matches, teams and clubs at any time in the app. Deleting the app removes all of its data from your device. Backup files or matches you exported remain wherever you saved them.
+
+Turning off iCloud sync for a team deletes its iCloud copy and ends its sharing; leaving a team shared with you stops receiving it. You can also delete the app's iCloud data in iOS Settings › your name › iCloud › Manage Storage.
 
 ## Changes to this policy
 
