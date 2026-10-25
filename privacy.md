@@ -1,6 +1,6 @@
 # T2T Hockey Privacy Policy
 
-Effective date: October 24, 2026
+Effective date: October 25, 2026
 
 T2T Hockey ("the app") helps parents and coaches track hockey game statistics. This policy explains what happens to your information when you use the app. The short version: **we do not collect, receive or sell any personal data.** Everything you enter stays on your device, unless you choose to sync or share a team with iCloud: it then goes through your own Apple Account, and we never have access to it.
 
@@ -26,7 +26,8 @@ This data is never sent to us; we have no servers. It is included in your device
 These features are off until you turn them on for a team.
 
 - **Sync with iCloud:** the team, its games, the opponents met (names, colors, logos), its leagues and tournaments are stored in your private iCloud database through Apple's CloudKit, under your Apple Account, so they appear on your other devices. Game and team content is end-to-end encrypted. Logos are stored as iCloud files, protected like your other iCloud data. This data counts against your iCloud storage.
-- **Sharing a team:** when you invite people with the iOS sharing screen, only they get access, as scorers (they can add and edit games) or viewers (they can only see them). Apple shows the people sharing a team each other's names and the contact used for the invitation. You can change a person's access, remove them or stop sharing at any time.
+- **Sharing a team:** when you invite people with the iOS sharing screen, only they get access, as scorers (they can add and edit games), viewers (they can only see them) or coaches (viewers who also share the staff notes). Apple shows the people sharing a team each other's names and the contact used for the invitation. You can change a person's access, remove them or stop sharing at any time.
+- **Game notes and coaches:** team notes travel with the team's games to everyone it is shared with. Staff notes are kept in a separate iCloud zone of your account, shared only with the people you invite as coaches; scorers and viewers never receive them. Private notes stay on your device and are never sent to iCloud or included in a shared file.
 - **Live games and goal alerts:** while a shared team's game is recorded, its updates go through iCloud to the people it is shared with. If they turn on goal alerts, iCloud wakes the app through Apple's push notification service and the app shows the alert on their device. No server of ours is involved.
 
 We, the developer, cannot see, read or receive any of this data. It is handled by Apple under Apple's privacy policy.

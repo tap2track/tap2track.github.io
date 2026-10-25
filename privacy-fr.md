@@ -1,6 +1,6 @@
 # Politique de confidentialité de T2T Hockey
 
-Date d'entrée en vigueur : 24 octobre 2026
+Date d'entrée en vigueur : 25 octobre 2026
 
 T2T Hockey (« l'app ») aide les parents et les entraîneurs à compiler les statistiques des matchs de hockey. Cette politique explique ce qu'il advient de vos renseignements lorsque vous utilisez l'app. En bref : **nous ne collectons, ne recevons et ne vendons aucune donnée personnelle.** Tout ce que vous saisissez reste sur votre appareil, sauf si vous choisissez de synchroniser ou de partager une équipe avec iCloud : elle passe alors par votre propre compte Apple, et nous n'y avons jamais accès.
 
@@ -26,7 +26,8 @@ Ces données ne nous sont jamais envoyées; nous n'avons aucun serveur. Elles fo
 Ces fonctions sont désactivées tant que vous ne les activez pas pour une équipe.
 
 - **Synchroniser avec iCloud :** l'équipe, ses matchs, les adversaires rencontrés (noms, couleurs, logos), ses ligues et tournois sont enregistrés dans votre base iCloud privée au moyen de CloudKit d'Apple, sous votre compte Apple, pour qu'ils apparaissent sur vos autres appareils. Le contenu des matchs et des équipes est chiffré de bout en bout. Les logos sont enregistrés comme fichiers iCloud, protégés comme vos autres données iCloud. Ces données comptent dans votre stockage iCloud.
-- **Partager une équipe :** lorsque vous invitez des personnes avec l'écran de partage d'iOS, seules ces personnes y ont accès, comme marqueurs (elles peuvent ajouter et modifier des matchs) ou en lecture seule (elles peuvent seulement les consulter). Apple montre aux personnes qui partagent une équipe leurs noms respectifs et le moyen de contact utilisé pour l'invitation. Vous pouvez en tout temps changer l'accès d'une personne, la retirer ou arrêter le partage.
+- **Partager une équipe :** lorsque vous invitez des personnes avec l'écran de partage d'iOS, seules ces personnes y ont accès, comme marqueurs (elles peuvent ajouter et modifier des matchs), spectateurs (elles peuvent seulement les consulter) ou entraîneurs (des spectateurs qui partagent aussi les notes du staff). Apple montre aux personnes qui partagent une équipe leurs noms respectifs et le moyen de contact utilisé pour l'invitation. Vous pouvez en tout temps changer l'accès d'une personne, la retirer ou arrêter le partage.
+- **Notes de match et entraîneurs :** les notes de l'équipe accompagnent les matchs de l'équipe jusqu'aux personnes avec qui elle est partagée. Les notes du staff sont enregistrées dans une zone iCloud distincte de votre compte, partagée seulement avec les personnes que vous invitez comme entraîneurs; les marqueurs et les spectateurs ne les reçoivent jamais. Les notes privées restent sur votre appareil et ne sont jamais envoyées à iCloud ni incluses dans un fichier partagé.
 - **Matchs en direct et alertes de buts :** pendant qu'un match d'une équipe partagée est saisi, ses mises à jour passent par iCloud jusqu'aux personnes avec qui elle est partagée. Si elles activent les alertes de buts, iCloud réveille l'app au moyen du service de notifications push d'Apple et l'app affiche l'alerte sur leur appareil. Aucun serveur qui nous appartient n'est utilisé.
 
 Nous, le développeur, ne pouvons ni voir, ni lire, ni recevoir aucune de ces données. Elles sont traitées par Apple selon la politique de confidentialité d'Apple.
